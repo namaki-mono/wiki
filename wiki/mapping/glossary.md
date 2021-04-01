@@ -28,7 +28,7 @@ let us know in #mapping-discussion!
 | - | :- |
 | **Backhand** | A swing where the majority of the work is done by the back of the hand. See this clip in [Fru's Tutorial Video](https://youtu.be/t9AFj4pfptM?t=454) for more info. See also: [Forehand](#f). |
 | **BeastSaber** | A website that categorizes the songs uploaded to [BeatSaver](#b) into different genres and attribute tags. Players can review songs and comment on them. A team of curators play through many songs each day and recommend the ones that stand out. Also known as *BSaber*. The link to BeastSaber can be found [here](https://bsaber.com/). |
-| **Beats Per Minute** | The number of beats that occur in one minute, defining the [Tempo](#t) of a song. Also known as [BPM](#b). |
+| **Beats Per Minute** | The number of beats that occur in one minute, defining the [Tempo](#t) of a song. Abbreviated as [BPM](#b). |
 | **BeatSaver** | The repository for all custom songs in Beat Saber. Songs uploaded here automatically feed to [Beast Saber](#b). The link can be found [here](https://beatsaver.com/). |
 | **Block** | A cube with either an arrow or a dot on it. It is the primary element of gameplay. By default, blocks are either red or blue. Also known as [Note](#n). <details><summary>**Example Image**</summary>![Picture of block](~@images/mapping/arrow-block.png)</details> |
 | **Bomb** | A [Block](#b) that looks like a spiky circle that damages the player if their saber touches it. It is safe for a bomb to pass through the player’s body. Also known as [Mine](#m). <details><summary>**Example Image**</summary>![Picture of bomb](~@images/mapping/bomb.png)</details> |
